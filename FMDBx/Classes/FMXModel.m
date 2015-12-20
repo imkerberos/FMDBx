@@ -5,6 +5,7 @@
 //  Copyright (c) 2014 KohkiMakimoto. All rights reserved.
 //
 
+#import "FMXDatabaseManager.h"
 #import "FMXModel.h"
 
 @implementation FMXModel

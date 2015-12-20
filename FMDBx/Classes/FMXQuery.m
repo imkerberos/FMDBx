@@ -5,12 +5,12 @@
 //  Copyright (c) 2014 KohkiMakimoto. All rights reserved.
 //
 
+#import <FMDB/FMDB.h>
+#import "FMXDatabaseManager.h"
 #import "FMXQuery.h"
 #import "FMXModel.h"
 #import "FMXTableMap.h"
 #import "FMXColumnMap.h"
-#import "FMDatabase.h"
-#import "FMResultSet.h"
 
 @interface FMXQuery ()
 

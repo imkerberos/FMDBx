@@ -5,9 +5,8 @@
 //  Copyright (c) 2014 KohkiMakimoto. All rights reserved.
 //
 
+#import <FMDB/FMDB.h>
 #import "FMXDatabaseMigration.h"
-#import "FMDatabase.h"
-#import "FMResultSet.h"
 
 @implementation FMXDatabaseMigration
 

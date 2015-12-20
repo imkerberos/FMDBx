@@ -6,14 +6,11 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "FMXDatabaseManager.h"
-#import "FMXDatabaseConfiguration.h"
-#import "FMDatabase.h"
-#import "FMResultSet.h"
-#import "FMXHelpers.h"
-#import "FMXTableMap.h"
-#import "FMXColumnMap.h"
-#import "FMXQuery.h"
+#import <FMDB/FMDB.h>
+#import <FMDBx/FMXHelpers.h>
+#import <FMDBx/FMXTableMap.h>
+#import <FMDBx/FMXColumnMap.h>
+#import <FMDBx/FMXQuery.h>
 
 @interface FMXModel : NSObject
 
